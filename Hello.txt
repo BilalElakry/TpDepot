@@ -1,2 +1,2 @@
-Bonjour depuis la branche develop
+Bonjour depuis les branches develop et bug-fix
 Ceci est ma deuxième modification.
