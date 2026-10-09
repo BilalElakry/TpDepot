@@ -1,2 +1,2 @@
-Bonjour Git !
+Bonjour depuis la branche develop
 Ceci est ma deuxième modification.
